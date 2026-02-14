@@ -19,7 +19,6 @@ This project showcases creative frontend design using only a single HTML file, w
 Add your deployed link here:
 https://warm-capybara-5c881a.netlify.app/
 ## How to Use
-
 1. Open the website link
 2. Enter names if prompted
 3. Follow the interactive experience
