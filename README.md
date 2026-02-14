@@ -1,7 +1,6 @@
 #Interactive Valentine Website
 A fun interactive single-page website built using pure HTML with inline CSS and JavaScript.
 This project showcases creative frontend design using only a single HTML file, without any external frameworks or libraries.
-
 ##Feature
 - Personalized intro screen
 - Interactive animations and transitions
