@@ -16,7 +16,6 @@ This project showcases creative frontend design using only a single HTML file, w
 - Inline CSS3  
 - Inline JavaScript  
 ## Live Demo
-
 Add your deployed link here:
 https://warm-capybara-5c881a.netlify.app/
 
