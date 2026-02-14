@@ -24,7 +24,6 @@ https://warm-capybara-5c881a.netlify.app/
 3. Follow the interactive experience
 4. Enjoy the animations and story flow
 ##Purpose
-
 This project was created as a creative frontend experiment to explore interactive UI design and animations using only a single HTML file.
 
 Made with ❤️ By Ayan Thara
