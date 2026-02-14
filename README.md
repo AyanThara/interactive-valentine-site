@@ -11,7 +11,6 @@ This project showcases creative frontend design using only a single HTML file, w
 - Gift box with emotional cards
 - Final romantic message screen
 - Mobile-friendly responsive layout
-
 ## Built With
 - HTML5  
 - Inline CSS3  
